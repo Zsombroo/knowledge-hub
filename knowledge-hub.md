@@ -124,3 +124,4 @@ I don't know if it is required to call but I do so...
 ## Github-cli
 
     gh repo create {name} --private
+    gh repo clone username/reponame
